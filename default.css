@@ -30,3 +30,9 @@ a {
     font-size: 30px;
     margin: 20px;
 }
+
+h6 {
+    -webkit-text-fill-color: #FA3768;
+    font-size: 30px;
+    margin: 20px;
+}
